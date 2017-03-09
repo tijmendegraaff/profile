@@ -1,0 +1,25 @@
+/* Your banner CSS file */
+.banner{
+  height: 100vh;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-size: cover;
+}
+.banner .btn-yours{
+  margin-top: 20px;
+}
+
+.banner h1{
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.banner p{
+  font-size: 24px;
+  color: rgba(255,255,255, 0.7);
+  font-weight: 200;
+}
+/* Your banner CSS code here */
